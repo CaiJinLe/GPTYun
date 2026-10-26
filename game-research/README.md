@@ -17,7 +17,7 @@
 - [项目交接背景与准备重点](handoff.md)
 - [星露谷物语：春季第 1 天原始记录](stardew-valley/logs/spring-01.md)
 - [星露谷物语：数值库](stardew-valley/numerical-data.csv)：只有表头，尚无已核实外部数据。
-- [心动小镇：观察说明](heartopia/README.md)：尚未提供游玩日志。
+- [心动小镇：日志与观察说明](heartopia/README.md)：已记录 2026-10-26 首日体验。
 - [分析与优化课题](topics/README.md)：待研究问题，不作为既定结论。
 
 ## 两条研究主线
